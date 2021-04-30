@@ -1,2 +1,2 @@
-aghjidop/chair_shop.github.io
+chair_shop.github.io
 Реализация адаптивной верстки главной страницы интернет-магазина.
